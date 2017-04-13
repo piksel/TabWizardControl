@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piksel.Controls.TabWizard", "Piksel.Controls.TabWizard\Piksel.Controls.TabWizard.csproj", "{D5C46338-FEE5-4F00-BBC7-2855A180A339}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabWizardControl Example", "TabWizardControl Example\TabWizardControl Example.csproj", "{6468F9B9-51A5-4BB5-9024-2C1034C776F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D5C46338-FEE5-4F00-BBC7-2855A180A339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5C46338-FEE5-4F00-BBC7-2855A180A339}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5C46338-FEE5-4F00-BBC7-2855A180A339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6468F9B9-51A5-4BB5-9024-2C1034C776F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6468F9B9-51A5-4BB5-9024-2C1034C776F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6468F9B9-51A5-4BB5-9024-2C1034C776F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6468F9B9-51A5-4BB5-9024-2C1034C776F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
